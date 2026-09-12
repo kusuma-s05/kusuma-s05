@@ -1,4 +1,4 @@
-
+<img src="./Banner for linkedin - KusumaS.png" alt="Kusuma S - Software Engineer" width="100%">
 
 # 💫 About Me:
 
@@ -37,5 +37,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<img src="./Footer Kusuma S.png" alt="Kusuma S - Software Engineer" width="100%">
 
 [![](https://komarev.com/ghpvc/?username=k-ullas-kumar&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
